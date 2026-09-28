@@ -1,20 +1,20 @@
 {
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "Pack a repository into one LLM-ready document that fits the context window (CLI + MCP server, zero deps)",
   "homepage": "https://github.com/la2278647-arch/ctxpack",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/la2278647-arch/ctxpack/releases/download/v0.1.15/ctxpack_0.1.15_windows_amd64.exe",
-      "hash": "3c57892cc88c9473ae7367e313982b3199d125c74dad1f2e7f93732c8b62b59a"
+      "url": "https://github.com/la2278647-arch/ctxpack/releases/download/v0.1.16/ctxpack_0.1.16_windows_amd64.exe",
+      "hash": "584871188e7ef1b8e33a437c5efce4eea6af3b7e511cfe93f1ba473eb5677217"
     },
     "32bit": {
-      "url": "https://github.com/la2278647-arch/ctxpack/releases/download/v0.1.15/ctxpack_0.1.15_windows_386.exe",
-      "hash": "a34ecb3b594e081b0a07766fa5c51151c4605719483bf3cdea7914ba63ff2132"
+      "url": "https://github.com/la2278647-arch/ctxpack/releases/download/v0.1.16/ctxpack_0.1.16_windows_386.exe",
+      "hash": "e55dc92b5e792f22bf40cd5ba83f09949ee3e27074c264353ed4dcc2ac7acff5"
     },
     "arm64": {
-      "url": "https://github.com/la2278647-arch/ctxpack/releases/download/v0.1.15/ctxpack_0.1.15_windows_arm64.exe",
-      "hash": "3ded11daed1e75f37fcfd7fd365c5e7480df64b13d13a57d1833681b25a20a69"
+      "url": "https://github.com/la2278647-arch/ctxpack/releases/download/v0.1.16/ctxpack_0.1.16_windows_arm64.exe",
+      "hash": "be31759ee62ed533232f2e7d7718f6049b9d474cd704ae2872aa69002ca1572a"
     }
   },
   "bin": "ctxpack.exe",
